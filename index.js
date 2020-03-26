@@ -7,7 +7,7 @@ module.exports = {
             `Hello ${nombre}`
         );
     },
-    helloNPMCours: function () {
+    helloNPMCourse: function () {
         console.log('Hello npm course')
     }
 };
